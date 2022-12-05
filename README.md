@@ -14,4 +14,4 @@ Book Landing Page Bootstrap 5 Template by BostonianAdam is a free HTML 5 / Boots
 * **BostonianAdam** - [bostonianadam.com](https://bostonianadam.com/), Twitter: [@BostonianAdam](https://twitter.com/BostonianAdam)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
