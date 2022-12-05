@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+/*Variables*/
+:root {
+  --page-primary-color: #99ccff;
+  --page-secondary-color: #373737;
+}
+/*CSS*/
+* {
+  font-family: 'Open Sans', Arial, sans-serif;
+}
+body {
+  position: relative;
+}
+#main-nav {
+  box-shadow: 2px 2px 5px rgb(90, 90, 90);
+}
+.navbar-brand {
+  font-size: 2rem;
+}
+.navbar-nav .nav-item {
+  font-size: 1.2rem;
+  padding-left: 1.5rem;
+}
+.navbar-nav .nav-item .nav-link {
+  color: #FFF;
+}
+#book {
+  margin-top: 98px;
+  position: relative;
+  background: url("../img/bg.jpg") no-repeat fixed center;
+  background-size: cover;
+  min-height: 470px;
+}
+#book .overlay {
+  background: rgba(153, 204, 255, 0.7);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
